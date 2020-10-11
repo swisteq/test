@@ -22,7 +22,7 @@ namespace CSharpTutA.cs
         static void Main(string[] args)
         {
             Animal bowser = new Animal("Bowser", 45, 25);
- 
+            // PUSH PUSH PUSH
             //// Serialize the object data to a file
             //Stream stream = File.Open("AnimalData.dat", FileMode.Create);
             //BinaryFormatter bf = new BinaryFormatter();
